@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "ryuta46.multi-command",
+        // "tabnine.tabnine-vscode",
+        "ms-vscode.makefile-tools",
+        // misc
+        // "ms-vscode-remote.remote-ssh",
+        // Rust
+        "rust-lang.rust-analyzer",
+        "tamasfe.even-better-toml",
+        // "vadimcn.vscode-lldb",
+        "guyutongxue.lalrpop-syntax-highlight",
+    ]
+}

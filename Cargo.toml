@@ -1,0 +1,15 @@
+[package]
+name        = "pyrs"
+version     = "0.0.1"
+edition     = "2021"
+
+authors     = ["Dmitry Ponyatov <dponyatov@gmail.com>"]
+description =  "Python in Rust /code digging/"
+
+# [workspace]
+# members = ["config", "lib", "daemon"]
+
+[dependencies]
+# config = { path = "../config" }
+# lib    = { path = "../lib"    }
+
