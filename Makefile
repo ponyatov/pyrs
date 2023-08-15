@@ -27,7 +27,7 @@ watch:
 # merge
 MERGE += README.md Makefile $(S)
 MERGE += .gitignore .gitattributes .stignore
-MERGE += apt.dev apt.txt apt.msys
+MERGE += apt.dev apt.txt
 
 .PHONY: dev
 dev:
